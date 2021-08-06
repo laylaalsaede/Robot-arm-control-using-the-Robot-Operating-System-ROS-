@@ -93,8 +93,7 @@ To define the positioning and movements of the arm will using movelt which is si
 ## 📝 Sources 
 
 - [Smart Methods Presentation](https://docs.google.com/presentation/d/1PakayQR6GGvXmXoLaYF_20ktKC39BTSc/edit#slide=id.p30)
-- https://github.com/Shatha789/Robot-arm-project/blob/main/README.md
-
+- https://github.com/Aqlaa29/Robot-Arm-Project
 
  
  
