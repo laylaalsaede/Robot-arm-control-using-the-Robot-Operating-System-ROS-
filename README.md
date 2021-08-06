@@ -7,11 +7,12 @@ Then you have start filling the blanks by choosing the version ROS such as melod
 
 Your project will be as shown in the picture:
 
-![2021-08-06](https://user-images.githubusercontent.com/63214056/128528411-5fba8aa7-377c-4e23-90ce-d880492da6df.png)
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/63214056/128528411-5fba8aa7-377c-4e23-90ce-d880492da6df.png">
+
 
 Click Run and then wait for a while for this interface shown:
 
-![2021-08-06 (2)](https://user-images.githubusercontent.com/63214056/128530384-f7665d1f-7f59-44e5-bfb0-9c6b605febe0.png)
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/63214056/128530384-f7665d1f-7f59-44e5-bfb0-9c6b605febe0.png">
 
 
 # Installing the package arduino_robot_arm & dependencies
