@@ -21,19 +21,19 @@ Then use the commands:
 
  - Add the “arduino_robot_arm” package to “src” folder :
  
-	$ cd ~/catkin_ws/src
+	   $ cd ~/catkin_ws/src
 	
-	$ sudo apt install git
+	   $ sudo apt install git
 	
-	$ git clone https://github.com/smart-methods/arduino_robot_arm 
+	   $ git clone https://github.com/smart-methods/arduino_robot_arm 
   
 - Install all the dependencies :
--  
-        	$ cd ~/catkin_ws
+
+           $ cd ~/catkin_ws
 	
-       $ rosdep install --from-paths src --ignore-src -r -y
+           $ rosdep install --from-paths src --ignore-src -r -y
 	
-   	$ sudo apt-get install ros-melodic-moveit
+   	   $ sudo apt-get install ros-melodic-moveit
 	
 	   $ sudo apt-get install ros-melodic-joint-state-publisher ros-melodic-joint-state-publisher-gui
 	
