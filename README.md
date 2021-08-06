@@ -22,18 +22,28 @@ Then use the commands:
  - Add the “arduino_robot_arm” package to “src” folder :
  
 	$ cd ~/catkin_ws/src
+	
 	$ sudo apt install git
+	
 	$ git clone https://github.com/smart-methods/arduino_robot_arm 
   
 - Install all the dependencies :
+- 
 	$ cd ~/catkin_ws
+	
 	$ rosdep install --from-paths src --ignore-src -r -y
+	
 	$ sudo apt-get install ros-melodic-moveit
+	
 	$ sudo apt-get install ros-melodic-joint-state-publisher ros-melodic-joint-state-publisher-gui
+	
 	$ sudo apt-get install ros-melodic-gazebo-ros-control joint-state-publisher
+	
 	$ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
+	
 - Compile the package
-$ catkin_make
+
+       $ catkin_make
 
 To clone the robot arm package from GitHub by using the path, as shown in the picture :
 ![2021-08-06 (3)](https://user-images.githubusercontent.com/63214056/128531409-9b7da7cf-cfee-4522-8032-b7368cd471a2.png)
