@@ -5,5 +5,6 @@ After creating an account at: https://www.theconstructsim.com website, Must clic
 
 Then you have start filling the blanks by choosing the version ROS such as melodic which i used, Then Writing the name of your project and description then click "create" .
 
- As shown in the picture :
+Your project will be as shown in the picture:
+
 ![2021-08-06](https://user-images.githubusercontent.com/63214056/128528411-5fba8aa7-377c-4e23-90ce-d880492da6df.png)
