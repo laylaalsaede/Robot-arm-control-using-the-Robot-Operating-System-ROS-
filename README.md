@@ -29,9 +29,9 @@ Then use the commands:
   
 - Install all the dependencies :
 
-         $ cd ~/catkin_ws
+       $ cd ~/catkin_ws
 	
-         $ rosdep install --from-paths src --ignore-src -r -y
+       $ rosdep install --from-paths src --ignore-src -r -y
 	
    	   $ sudo apt-get install ros-melodic-moveit
 	
